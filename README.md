@@ -1,2 +1,2 @@
 # CondaInstallerWindows
- Sripts that automatically download and installs miniconda with image processing libraries included.
+ A series of sripts that automatically download and installs miniconda with several image processing libraries.
